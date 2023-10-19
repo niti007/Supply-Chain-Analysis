@@ -21,13 +21,21 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business review meeting in comic form.
 3. Create relevant insights not provided in the metric list/stakeholder meeting.
    
-# Booking & Rating View
+# Navigation Page
 
-![image](https://github.com/niti007/Hospitality-Analysis/assets/90565444/63fd07a7-5c7c-4020-984b-461a715f26bf)
+![image](https://github.com/niti007/Supply-Chain-Analysis/assets/90565444/8163ff9b-470d-4fd6-9e79-5d00956a2819)
 
-# Revenue Analysis View
+# Oders & Shipment View
 
-![image](https://github.com/niti007/Hospitality-Analysis/assets/90565444/e714d0e0-fb3d-4ea7-8b33-6dd49eb3fee8)
+![image](https://github.com/niti007/Supply-Chain-Analysis/assets/90565444/2852e883-a644-4c9f-8911-7860269f08f8)
+
+# Customers Analysis
+
+![image](https://github.com/niti007/Supply-Chain-Analysis/assets/90565444/b01878d9-b8bc-4ef5-995d-d937edba6b42)
+
+# Product Analysis
+
+![image](https://github.com/niti007/Supply-Chain-Analysis/assets/90565444/14240881-a624-491a-95b1-a135b6c82878)
 
 # Important Insights from the Dashboard 
 
