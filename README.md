@@ -39,27 +39,18 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 
 # Important Insights from the Dashboard 
 
-1. Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, and Bangalore.
-2. Presidential rooms has the highest ratings(3.69) and premium has the lowest(3.59)
-3. Elite rooms have the highest revenue as well as higher booking and cancellation rates so we need to focus on those customers.
-4. Atliq Exotica has the highest revenue 320M and a rating of 3.62 and Atliq Seasons has the lowest.
-5. luxury recorded the highest revenue which is 1.05bn out of 1.71bn.
-6. May had the highest revenue 581.93m  while June had the lowest 553.93m.
-7. Delhi generated the lowest revenue in terms of cities.
-8. Delhi has the highest occupancy % while Banglore has the lowest.
-9. presidential rooms have the highest occupancy % and elite rooms have the lowest.
-10. AtliQ Bay has the highest occupancy of 66%
-11. Although the DSRN is more for standard rooms the revenue is less which means we have more rooms but they are empty.
-12. June has the highest cancellation rate.
-13. 199M revenue is lost due to cancellation.
+1. Average OT%, IF%, and OTIF% are noticeably lower than the targeted levels.
+2. Acclaimed Stores, Lotus Mart, Vijay Stores, Rel Fresh, Cool Blue, and Propel Mart seem to be the key customers as they have almost 53% of the total orders.
+3. On May 22 and Aug 22 there is a slight improvement in IF% and OTIF% but still they are very far from the target.
+4. The Total orders for AM milk 250 are the most still a lot of times it is delayed.
+5. OTIF% for  Acclaimed Stores-15.47% , Lotus Mart-16.34% , Cool Blue-13.75% which is quite alarming.
+6. Also OTIF for acclaimed stores which have the most orders out of all customers in Surat is only 6.93%
+7. out of 32k orders only 9.2k orders are delivered on time in full.
+  
 
 # Learned things from the project
     
-- Acquired a comprehensive understanding of calculating RevPAR (Revenue Per Available Room) and its significance in assessing a hotel's revenue performance.
-- Gained insights into utilizing RevPAR to establish accurate room pricing strategies and to benchmark the performance of hotels against other properties or brands.
-- Explored the calculation of DBRN (Daily Booked Room Nights) as a key metric for understanding the average daily room bookings over a specified period.
-- Investigated the significance of DSRN (Daily Sellable Room Nights) in assessing the average number of rooms available for sale on a daily basis within a specific time frame.
-- Explored the calculation of DURN (Daily Utilized Room Nights) and its role in evaluating the average number of rooms effectively used by customers on a daily basis over a defined period.
+- 
 
   
     
