@@ -3,7 +3,7 @@ As a part of the Codebasics resume Project challenge, I have developed this dash
 
 Link to Challenge- https://codebasics.io/challenge/codebasics-resume-project-challenge/5
 
-Link to Interactive Dashboard- https://www.novypro.com/project/hospitality-analysis-13
+Link to Interactive Dashboard- https://www.novypro.com/project/supply-chain-analysis-power-bi-2
 
 # Problem Statement
 
