@@ -48,7 +48,7 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 7. out of 32k orders only 9.2k orders are delivered on time in full.
 
     
-# The supply chain analysis project provided several insights and domain knowledge related to the supply chain domain. Here are some of the key takeaways and learned things from this project:
+# Here are some of the key takeaways and learned things from this project:
 
 1. Understanding of Service Level Metrics: This project helped in understanding the significance of service level metrics such as On-time delivery (OT) %, In-full delivery (IF) %, and On-Time In Full (OTIF) %, and their importance in maintaining customer satisfaction and retention.
 
