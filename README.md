@@ -46,11 +46,23 @@ Peter Pandey is the data analyst in the supply chain team who joined AtliQ Mart 
 5. OTIF% for  Acclaimed Stores-15.47% , Lotus Mart-16.34% , Cool Blue-13.75% which is quite alarming.
 6. Also OTIF for acclaimed stores which have the most orders out of all customers in Surat is only 6.93%
 7. out of 32k orders only 9.2k orders are delivered on time in full.
-  
 
-# Learned things from the project
     
-- 
+# The supply chain analysis project provided several insights and domain knowledge related to the supply chain domain. Here are some of the key takeaways and learned things from this project:
+
+1. Understanding of Service Level Metrics: This project helped in understanding the significance of service level metrics such as On-time delivery (OT) %, In-full delivery (IF) %, and On-Time In Full (OTIF) %, and their importance in maintaining customer satisfaction and retention.
+
+2. Identifying Key Customers and Products: Analyzing customer and product data provided insights into the importance of identifying key customers and products. Understanding the performance and behavior of key customers and products can help in prioritizing resources and addressing potential issues in the supply chain.
+
+3. Challenges in Maintaining Service Levels: The project emphasized the challenges faced in maintaining service levels, especially in terms of on-time and in-full deliveries. It showcased how even with high order volumes, ensuring timely and complete deliveries can be a complex task, requiring careful monitoring and management.
+
+4. Impact of Supply Chain Issues on Customer Relationships: The project highlighted the impact of supply chain issues on customer relationships. Inadequate service levels can lead to dissatisfaction and the potential loss of key customers, emphasizing the importance of addressing supply chain issues promptly and effectively.
+
+6. Performance Discrepancies Across Locations and Customers: The project illustrated the discrepancies in performance across different locations and customers. It emphasized the need to tailor supply chain strategies based on specific customer requirements and regional dynamics, recognizing that a one-size-fits-all approach may not be effective.
+
+7. Tracking and Monitoring Performance Trends Over Time: By monitoring performance trends over time, the project emphasized the importance of tracking supply chain performance consistently. This allows for the identification of seasonal variations, recurring issues, and improvements, enabling proactive measures to enhance overall service levels.
+
+
 
   
     
